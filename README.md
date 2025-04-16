@@ -1,7 +1,7 @@
 # project2
-Automated Port Scanning on AWS EC2 using Bash Scripting and Nmap
+# Automated Port Scanning on AWS EC2 using Bash Scripting and Nmap
 
-Automated Port Scanning on AWS EC2 using Bash Scripting and Nmap is a cloud-based network scanning solution built for cybersecurity testing and port reconnaissance. This project automates the process of scanning target systems to identify open, closed, and filtered ports using a custom Bash script running on an AWS EC2 Linux instance.
+A simple tool that uses Bash and Nmap on AWS EC2 to scan IPs or websites.It automatically finds open, closed, and filtered ports.Useful for basic cybersecurity testing
 
 # technologies used
         1.aws cloud to run the EC2 server
